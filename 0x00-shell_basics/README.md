@@ -1,1 +1,1 @@
-Move the file betty from
+script Create a script that creates a directory named
