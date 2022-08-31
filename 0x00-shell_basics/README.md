@@ -1,1 +1,1 @@
-script that Display current directory content including hidden files
+scrpt that Display current directory contents.
