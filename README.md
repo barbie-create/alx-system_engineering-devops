@@ -1,1 +1,1 @@
-Hidden files
+Betty in my first directory
